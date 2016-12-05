@@ -1,0 +1,130 @@
+Wed Nov  9 02:15:40 2016 :  started session 
+Wed Nov  9 02:15:40 2016 :  created control thread 
+Wed Nov  9 02:15:40 2016 :  tcp socket created <0.0.0.0,40000>
+Wed Nov  9 02:15:40 2016 :  udp socket created <0.0.0.0,40000>
+Wed Nov  9 02:15:40 2016 :  heartbeat thread created 
+Wed Nov  9 02:15:41 2016 :  worker connected <127.0.0.1,20500>
+Wed Nov  9 02:15:41 2016 :  addressList resized to 2 
+Wed Nov  9 02:15:41 2016 :  info thread created for worker <127.0.0.1,20500>
+Wed Nov  9 02:15:41 2016 :  data port info recevied from worker <127.0.0.1,20500>
+Wed Nov  9 02:15:42 2016 :  fileList resized to 2 
+Wed Nov  9 02:15:42 2016 :  file names info recevied from worker <127.0.0.1,20500>
+Wed Nov  9 02:15:43 2016 :  worker connected <127.0.0.1,20700>
+Wed Nov  9 02:15:43 2016 :  addressList resized to 4 
+Wed Nov  9 02:15:43 2016 :  info thread created for worker <127.0.0.1,20700>
+Wed Nov  9 02:15:43 2016 :  data port info recevied from worker <127.0.0.1,20700>
+Wed Nov  9 02:15:43 2016 :  file names info recevied from worker <127.0.0.1,20700>
+Wed Nov  9 02:15:43 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:15:45 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:15:45 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:15:47 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:15:47 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:15:49 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:15:49 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:15:51 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:15:51 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:15:52 2016 :  GCP command received: TASK 1 
+Wed Nov  9 02:15:52 2016 :  created data thread 
+Wed Nov  9 02:15:52 2016 :  created task thread for output file OUT_1_0 
+Wed Nov  9 02:15:52 2016 :  connected to <127.0.0.1,30500>
+Wed Nov  9 02:15:52 2016 :  issued instructions to <127.0.0.1,30500>
+Wed Nov  9 02:15:52 2016 :  received response from <127.0.0.1,30500>
+Wed Nov  9 02:15:52 2016 :  Task 1 completed 
+Wed Nov  9 02:15:53 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:15:53 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:15:55 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:15:55 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:15:57 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:15:57 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:15:58 2016 :  GCP command received: TASK 2 
+Wed Nov  9 02:15:58 2016 :  created data thread 
+Wed Nov  9 02:15:58 2016 :  TASK 2 killed: unable to locate resources 
+Wed Nov  9 02:15:59 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:15:59 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:01 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:01 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:03 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:03 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:05 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:05 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:07 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:07 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:09 2016 :  GCP command received: TASK 3 
+Wed Nov  9 02:16:09 2016 :  created data thread 
+Wed Nov  9 02:16:09 2016 :  created task thread for output file OUT_3_0 
+Wed Nov  9 02:16:09 2016 :  created task thread for output file OUT_3_1 
+Wed Nov  9 02:16:09 2016 :  connected to <127.0.0.1,30700>
+Wed Nov  9 02:16:09 2016 :  connected to <127.0.0.1,30500>
+Wed Nov  9 02:16:09 2016Wed issued instructions  :  issued instructions to <127.0.0.1,,30500>
+Wed Nov  9 02:16:09 2016Wed received response fr :  received response from <127.0.0.1,30500>
+Wed Nov  9 02:16:09 2016 :  Task 3 completed 
+Wed Nov  9 02:16:09 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:09 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:11 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:11 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:13 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:13 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:15 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:15 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:17 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:17 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:19 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:19 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:21 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:21 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:23 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:23 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:25 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:25 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:27 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:27 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:29 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:29 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:31 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:31 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:33 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:33 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:35 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:35 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:37 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:37 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:39 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:39 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:41 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:41 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:43 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:43 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:45 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:45 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:47 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:47 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:49 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:49 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:51 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:51 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:53 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:53 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:55 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:55 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:57 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:57 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:16:59 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:16:59 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:01 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:01 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:03 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:03 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:05 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:05 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:07 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:07 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:09 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:09 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:11 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:11 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:13 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:13 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:15 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:15 2016 :  recevied heartbeat <127.0.0.1,20500>
+Wed Nov  9 02:17:17 2016 :  recevied heartbeat <127.0.0.1,20700>
+Wed Nov  9 02:17:17 2016 :  recevied heartbeat <127.0.0.1,20500>

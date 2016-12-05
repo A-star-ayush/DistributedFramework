@@ -1,0 +1,64 @@
+Wed Nov  9 02:15:41 2016 :  started session 
+Wed Nov  9 02:15:41 2016 :  created control thread 
+Wed Nov  9 02:15:41 2016 :  tcp socket created <0.0.0.0,20500>
+Wed Nov  9 02:15:41 2016 :  connected to Zookeeper <127.0.0.1,40000>
+Wed Nov  9 02:15:41 2016 :  udp socket created <0.0.0.0,20500>
+Wed Nov  9 02:15:41 2016 :  heartbeat thread created 
+Wed Nov  9 02:15:41 2016 :  provided data port info 
+Wed Nov  9 02:15:42 2016 :  provided file names info 
+Wed Nov  9 02:15:43 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:15:45 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:15:47 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:15:49 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:15:51 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:15:52 2016 :  accepted connection from <127.0.0.1,58744>
+Wed Nov  9 02:15:52 2016 :  started computing GCP on shared/graph001 
+Wed Nov  9 02:15:52 2016 :  done computing GCP on shared/graph001 
+Wed Nov  9 02:15:53 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:15:55 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:15:57 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:15:59 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:01 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:03 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:05 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:07 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:09 2016 :  accepted connection from <127.0.0.1,58745>
+Wed Nov  9 02:16:09 2016 :  started computing GCP on shared/graph001 
+Wed Nov  9 02:16:09 2016 :  done computing GCP on shared/graph001 
+Wed Nov  9 02:16:09 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:11 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:13 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:15 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:17 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:19 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:21 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:23 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:25 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:27 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:29 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:31 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:33 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:35 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:37 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:39 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:41 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:43 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:45 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:47 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:49 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:51 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:53 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:55 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:57 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:16:59 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:01 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:03 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:05 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:07 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:09 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:11 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:13 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:15 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:17 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:19 2016 :  sent heartbeat <127.0.0.1,40000>
+Wed Nov  9 02:17:21 2016 :  sent heartbeat <127.0.0.1,40000>
