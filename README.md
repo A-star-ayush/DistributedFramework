@@ -23,5 +23,5 @@ The control thread and the data thread respectively handle the control port (cpo
 ### Sample run:
 Only the cport of the zookeeper along with it's ip address is to be known to all the workers.  
 On Zookeeper:  ./zookeeper  
-On Worker: ./worker 127.0.0.1 40000 20500 30500   `[ <ip of zookeeper> <zookeeper's cport> <self cport> <self dport> ]`
+On Worker: ./worker 127.0.0.1 40000 20500 30500   `<ip of zookeeper> <zookeeper's cport> <self cport> <self dport>`
 	
